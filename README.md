@@ -6,7 +6,7 @@
 
 ---
 
-## ⚙️ Features
+##  Features
 
 -  **Scream Detection** – Detects distress or loud sounds and triggers instant alerts.  
 -  **Panic Alarm** – Sends emergency alerts with a single click.  
@@ -17,7 +17,7 @@
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 | Category | Technology |
 |-----------|-------------|
@@ -29,7 +29,7 @@
 
 ---
 
-## 🖥️ How It Works
+##  How It Works
 
 1. **Allow Microphone Access:** The system listens for high-pitch scream frequencies.  
 2. **Detection:** Once a scream or loud noise is detected, the system triggers an alert.  
